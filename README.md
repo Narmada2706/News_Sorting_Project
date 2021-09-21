@@ -13,7 +13,7 @@ In this Project I have Used  SVM Algorithm
 For a given news article, the system should be able to classify them according to various categories like Finance, Sports etc.
 
 # WHO I AM ?
-My Name is Narmada .I am Pursuing Third Year in Computer Science And Engineering from SGGS College Nanded. NOW I am Doing Internship in Machine learning and Artificial Intelligence Domain.
+My Name is Narmada .I am Pursuing Third Year in Computer Science And Engineering from SGGS College Nanded. 
 
 # Other Useful Links:
 https://www.linkedin.com/in/narmada-ugale-b411a61ab/
